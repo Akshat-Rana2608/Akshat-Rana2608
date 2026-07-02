@@ -46,7 +46,7 @@ I am a passionate student, tech enthusiast, and an aspiring engineer deeply inve
 ### 🤝 Connect with me
 
 <p align="left">
-  <a href="www.linkedin.com/in/akshat-rana-604b44265" target="_blank">
+  <a href="https://www.linkedin.com/in/akshat-rana-604b44265/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/Akshat_Rana2608" target="_blank">
