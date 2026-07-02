@@ -1,7 +1,7 @@
 # Hi there, I'm Akshat! 👋
 
 ### 🚀 About Me
-I'm an developer and tech enthusiast passionate about low-level hardware diagnostics, programming, and creating impactful digital content. I love tinkering with chip-level hardware repair, building localized AI setups, and deep-diving into complex systems.
+I'm a developer and tech enthusiast passionate about low-level hardware diagnostics, programming, and creating impactful digital content. I love tinkering with chip-level hardware repair, building localized AI setups, and deep-diving into complex systems.
 
 - 🛠️ Currently exploring: Localized AI agents and performance optimization.
 - 💻 Deep into: Chip-level hardware troubleshooting and laptop diagnostics.
@@ -29,11 +29,11 @@ I'm an developer and tech enthusiast passionate about low-level hardware diagnos
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akshat-Rana2608&show_icons=true&theme=tokyonight&count_private=true" alt="Akshat's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshat-Rana2608&theme=tokyonight" alt="Akshat's Streak Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat-Rana2608&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshat-Rana2026&theme=tokyonight" alt="Akshat's Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akshat-Rana2026&show_icons=true&theme=tokyonight&hide_rank=true" alt="Akshat's GitHub Stats" />
 </p>
 
 ---
