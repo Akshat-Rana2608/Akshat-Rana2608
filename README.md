@@ -29,11 +29,11 @@ I'm a developer and tech enthusiast passionate about low-level hardware diagnost
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshat-Rana2026&theme=tokyonight" alt="Akshat's Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshat-Rana2608&theme=tokyonight" alt="Akshat's Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akshat-Rana2026&show_icons=true&theme=tokyonight&hide_rank=true" alt="Akshat's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akshat-Rana2608&show_icons=true&theme=tokyonight&hide_rank=true" alt="Akshat's GitHub Stats" />
 </p>
 
 ---
